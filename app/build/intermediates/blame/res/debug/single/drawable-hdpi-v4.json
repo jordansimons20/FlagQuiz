@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Jordan\\AndroidStudioProjects\\FlagQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Jordan\\AndroidStudioProjects\\FlagQuiz\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Jordan\\AndroidStudioProjects\\FlagQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\north_america_usa.png",
+        "source": "C:\\Users\\Jordan\\AndroidStudioProjects\\FlagQuiz\\app\\src\\main\\res\\drawable-hdpi\\north_america_usa.png"
+    }
+]

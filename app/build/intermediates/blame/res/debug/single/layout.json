@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Jordan\\AndroidStudioProjects\\FlagQuiz\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_settings.xml",
+        "source": "C:\\Users\\Jordan\\AndroidStudioProjects\\FlagQuiz\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jordan\\AndroidStudioProjects\\FlagQuiz\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_quiz.xml",
+        "source": "C:\\Users\\Jordan\\AndroidStudioProjects\\FlagQuiz\\app\\src\\main\\res\\layout\\fragment_quiz.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jordan\\AndroidStudioProjects\\FlagQuiz\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Jordan\\AndroidStudioProjects\\FlagQuiz\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
